@@ -1,0 +1,10 @@
+{
+  "conjure": { "branch": "master", "commit": "0d9b823db06cc11e6115b54297f690dff10c0299" },
+  "fzf": { "branch": "master", "commit": "0f50dc848e58b47408713c2c31f2be73287c030a" },
+  "fzf.vim": { "branch": "master", "commit": "5ab282c2f4a597fa655f39f36e7ee8e97bf51650" },
+  "lazy.nvim": { "branch": "main", "commit": "2a9354c7d2368d78cbd5575a51a2af5bd8a6ad01" },
+  "nvim-tree.lua": { "branch": "master", "commit": "5897b3622f033b1f3ea6adf8eb1c165e9f20554f" },
+  "nvim-treesitter": { "branch": "master", "commit": "30604fd7dde5abcba7ca8f5761894dfa61febe51" },
+  "nvim-treesitter-textobjects": { "branch": "master", "commit": "bd103502252027434ec42f628d2dbf54821d4ce6" },
+  "nvim-web-devicons": { "branch": "master", "commit": "bc11ee2498de2310de5776477dd9dce65d03b464" }
+}
